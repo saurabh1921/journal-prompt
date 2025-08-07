@@ -1,6 +1,7 @@
 .prompt_container {
     padding-left: 10%;
     padding-right: 10%;
+    font-color: #fff;
 }
 
 #main_prompt {

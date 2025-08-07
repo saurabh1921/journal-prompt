@@ -1,13 +1,13 @@
 .prompt_container {
     padding-left: 10%;
     padding-right: 10%;
-    font-color: #fff;
+    color: #fff; i
     background-color:#000;
 }
 
 #main_prompt {
     font-size: 2.3vmax;
-    font-color: #fff;
+   color: #fff; i
     height: 90vh;
     width: 100%;
     display: flex;

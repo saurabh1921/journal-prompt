@@ -2,6 +2,7 @@
     padding-left: 10%;
     padding-right: 10%;
     font-color: #fff;
+    background-color:#000;
 }
 
 #main_prompt {
@@ -12,4 +13,5 @@
     display: flex;
     justify-content: center;
     align-items: center;
+      background-color:#000;
 }
